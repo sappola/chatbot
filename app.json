@@ -66,9 +66,9 @@
             "description": "Sticker for start ",
             "required": false 
         },
-        "STKR9": {
-            "description": "Sticker for start ",
-            "required": false 
+        
+           
+            
         },
         "START_IMG1": {
             "description": "Start Image For Bot.",
@@ -108,7 +108,7 @@
         },
         "START_IMG10": {
             "description": "Start Image For Bot.",
-            "required": true
+            "required": false
         },
         "API_ID": {
             "description": "telegram api id here",
