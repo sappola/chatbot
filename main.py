@@ -44,7 +44,7 @@ STKR5 = os.environ.get("STKR5", "CAACAgQAAxkBAALRj2NZXXJw6Pw7TJgYQStoq4u2oYpmAAK
 STKR6 = os.environ.get("STKR6", "CAACAgQAAxkBAALRkGNZXYmAXYRR4lmCxHGPgG012Vm0AAJiFwACpvFxHuCsJc_EpuEVKgQ")
 STKR7 = os.environ.get("STKR7", "CAACAgQAAxkBAALRkWNZXYyCvkfI4d1lK0AEMkG0GdUmAAJmFwACpvFxHnvJHTM8_o9XKgQ")
 STKR8 = os.environ.get("STKR8", "CAACAgQAAxkBAALRkmNZXZg1zuakmgkPf2lfXPXi4bZaAALACgACQUGpUjAAAYL3e09XCyoE")
-STKR9 = os.environ.get("STKR9", "CAACAgQAAxkBAALRpWNZXzUmc-SfzlpERZFVXwABE
+
 
 bot = Client(
     "VickBot" ,
